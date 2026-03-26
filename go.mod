@@ -1,3 +1,3 @@
-module github.com/neon-deer-data-labs/checkredirects-mcp
+module github.com/neondeerdatalabs/checkredirects-mcp
 
 go 1.23

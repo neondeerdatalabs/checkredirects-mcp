@@ -5,7 +5,7 @@ MCP (Model Context Protocol) server for [checkredirects.io](https://checkredirec
 ## Install
 
 ```bash
-go install github.com/neon-deer-data-labs/checkredirects-mcp@latest
+go install github.com/neondeerdatalabs/checkredirects-mcp@latest
 ```
 
 ## Setup
